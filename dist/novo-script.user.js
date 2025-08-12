@@ -4,7 +4,7 @@
 // @version      0.2.2-debug
 // @description  Melhora a experiência no wplace.live com um overlay de templates e um novo design.
 // @author       Ruan Pablo
-// @match        *://*.wplace.live/*
+// @match        *://*.wgram.discloud.app//*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=wplace.live
 // @grant        GM_addStyle
 // @grant        GM.setValue

@@ -10,9 +10,9 @@
 // @grant        GM.setValue
 // @grant        GM.getValue
 // @grant        GM_getResourceText
-// @resource     CSS_NOVO_SCRIPT https://raw.githubusercontent.com/rm0ntoya/Wplace/main/src/styles/main.css
-// @updateURL    https://raw.githubusercontent.com/rm0ntoya/Wplace/main/nomedoscript.meta.js
-// @downloadURL  https://raw.githubusercontent.com/rm0ntoya/Wplace/main/novo-script.user.js
+// @resource     CSS_NOVO_SCRIPT https://raw.githubusercontent.com/rm0ntoya/wplace-v2main/src/styles/main.css
+// @updateURL    https://raw.githubusercontent.com/rm0ntoya/wplace-v2main/nomedoscript.meta.js
+// @downloadURL  https://raw.githubusercontent.com/rm0ntoya/wplace-v2main/novo-script.user.js
 // @run-at       document-start
 //
 // @require      https://www.gstatic.com/firebasejs/8.10.1/firebase-app.js

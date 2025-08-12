@@ -11,8 +11,8 @@
 // @grant        GM.getValue
 // @grant        GM_getResourceText
 // @resource     CSS_NOVO_SCRIPT file:///Caminho/Para/Seu/Projeto/novo-userscript/src/styles/main.css
-// @updateURL    https://raw.githubusercontent.com/rm0ntoya/Wplace/main/nomedoscript.meta.js
-// @downloadURL  https://raw.githubusercontent.com/rm0ntoya/Wplace/main/novo-script.user.js
+// @updateURL    https://raw.githubusercontent.com/rm0ntoya/wplace-v2main/nomedoscript.meta.js
+// @downloadURL  https://raw.githubusercontent.com/rm0ntoya/wplace-v2main/novo-script.user.js
 // @run-at       document-start
 // ==/UserScript==
 

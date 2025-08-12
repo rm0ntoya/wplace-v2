@@ -9,8 +9,8 @@
 // @grant        GM_addStyle
 // @grant        GM.setValue
 // @grant        GM.getValue
-// @updateURL    https://raw.githubusercontent.com/rm0ntoya/wplace-v2main/nomedoscript.meta.js
-// @downloadURL  https://raw.githubusercontent.com/rm0ntoya/wplace-v2main/novo-script.user.js
+// @updateURL    https://raw.githubusercontent.com/rm0ntoya/wplace-v2/main/nomedoscript.meta.js
+// @downloadURL  https://raw.githubusercontent.com/rm0ntoya/wplace-v2/main/novo-script.user.js
 // @run-at       document-start
 // ==/UserScript==
 
